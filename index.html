@@ -98,7 +98,7 @@
       <h1>Chartreux Cats 🐾</h1>
       <img src="chartreuxcat.jpeg" alt="chartreux cat in a red ladybug bag" />
       <h2 class="fluffy-balls">
-        Beware... These fluffy balls will steal your heart forever
+        Beware! These fluffy balls will steal your heart forever...
       </h2>
       <p>
         The Chartreux is a rare breed of cat from France, and is recognised by a
@@ -168,7 +168,7 @@
         Learn More on Wikipedia
       </a>
       <br />
-      <button>Email me for info</button>
+      <button>📧 Email me for info</button>
       <br />
       <footer>
         This page was built by
@@ -180,5 +180,16 @@
         </a>
       </footer>
     </div>
+    <script>
+      function getintouch() {
+        let name = prompt("What is your name?");
+        let email = prompt("What is your email address?");
+        let emoji = prompt("What is your favorite emoji?");
+
+        alert("Thank you, " + name + "! We will be in touch by email " + emoji);
+      }
+      let button = document.querySelector("button");
+      button.addEventListener("click", getintouch);
+    </script>
   </body>
 </html>
