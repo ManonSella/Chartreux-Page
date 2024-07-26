@@ -1,3 +1,4 @@
+![_Users_Manon_Projects_chartreux-landing_index html](https://github.com/user-attachments/assets/a92f76a0-693c-4ead-87d7-4e867cadcb5f)
 # Chartreux Cats Landing Page
 
 This is a landing page project about Chartreux cats.
@@ -8,7 +9,7 @@ The Chartreux Cats Landing Page is a simple website built using HTML and CSS. It
 
 ## Preview
 
-![Screenshot 2024-07-26 at 16 46 57](https://github.com/user-attachments/assets/fad5c096-bccc-40a3-94da-7e2eb2dcf0ca)
+![_Users_Manon_Projects_chartreux-landing_index html](https://github.com/user-attachments/assets/a92f76a0-693c-4ead-87d7-4e867cadcb5f)
 
 ## Installation
 
